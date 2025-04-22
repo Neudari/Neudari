@@ -3,6 +3,7 @@ My Name is Nethmi Udara, I'm a Computer Science Undegraduate in University Of Ru
 - 🔭 I’m currently working on building full-stack web applications using React and Spring Boot, with a focus on clean UI, RESTful APIs, and real-world functionality.
 - 🌱 I’m currently learning advanced Spring Boot features, microservices architecture, and exploring frontend optimization techniques with React.
 - 👯 I’m looking to collaborate on innovative full-stack projects, especially those involving React, Spring Boot, and real-world problem-solving.
+- 🤔 I’m looking for help with help with optimizing microservices performance and best practices for scaling full-stack applications.
 
 <!--
 **Neudari/Neudari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
